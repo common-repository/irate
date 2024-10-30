@@ -1,0 +1,14 @@
+div.irate-box {
+	/*text-align: justify;*/
+}
+
+div.irate-img {
+	float: left;
+	width: 90px;
+	height: 100px;
+}
+
+div.irate-comment {
+	padding-top: 3px;
+	float: right;
+}

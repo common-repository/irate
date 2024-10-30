@@ -1,0 +1,58 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Juan Sebastián Echeverry <sebaxtian@gawab.com>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: iRate\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-09 14:11-0500\n"
+"PO-Revision-Date: 2011-12-04 14:27-0500\n"
+"Last-Translator: Juan Sebastián Echeverry <sebaxtian@gawab.com>\n"
+"Language-Team: sebaxtian <sebaxtian@gawab.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 0.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: COLOMBIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /var/www/wordpress/wp-content/plugins/irate\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: templates\n"
+
+#: irate.php:80
+msgid "Can\\'t read iRate Feed"
+msgstr "Ne peux pas lire le feed iRate."
+
+#: irate.php:175
+msgid "Comments"
+msgstr "Commentaire"
+
+#: irate.php:212
+msgid "Loading iRate..."
+msgstr "Chargement d'iRate"
+
+#: templates/irate_widget.php:3
+msgid "Title"
+msgstr "Titre"
+
+#: templates/irate_widget.php:9
+msgid "Username"
+msgstr "Horodatage"
+
+#: templates/irate_widget.php:15
+msgid "Timestamp"
+msgstr "Estampa de tiempo"
+
+#~ msgid ""
+#~ "You have to install <a href=\"%s\" target=\"_BLANK\">minimax %1.1f</a> in "
+#~ "order for this plugin to work."
+#~ msgstr ""
+#~ "Deber&aacute; instalar <a href=\"%s\" target=\"_BLANK\">minimax %1.1f</a> "
+#~ "para que este plugin funcione."
+
+#~ msgid "Only iRate can use this link."
+#~ msgstr "Solo iRate puede consultar este enlace."
